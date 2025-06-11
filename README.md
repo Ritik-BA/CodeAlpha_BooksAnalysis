@@ -7,8 +7,6 @@ This project is part of the **CodeAlpha Data Analytics Internship** and demonstr
 - Data cleaning and exploratory analysis
 - Data visualization using Python
 
----
-
 ##  Tasks Completed
 
 ###  Task 1: Web Scraping
@@ -35,7 +33,6 @@ This project is part of the **CodeAlpha Data Analytics Internship** and demonstr
 - Script: `visualization_books_short_titles.py`
 - Output: `.png` image files
 
----
 
 ##  Visual Outputs
 
@@ -44,7 +41,6 @@ This project is part of the **CodeAlpha Data Analytics Internship** and demonstr
 - `barplot_all_books_short_titles.png`
 - `pie_stock_status.png`
 
----
 
 ##  Key Learnings
 
@@ -52,7 +48,8 @@ This project is part of the **CodeAlpha Data Analytics Internship** and demonstr
 - Data wrangling and EDA using Python
 - Insightful and clear data storytelling using visuals
 
----
-
+##  Contact
+For academic or professional inquiries: 
+singhritik1899@gmail.com
 
 
